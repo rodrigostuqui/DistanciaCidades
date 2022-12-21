@@ -1,6 +1,6 @@
 ﻿using DistanciaCidades.Utils;
 
-namespace Question1
+namespace Question3
 {
     public class Distancia
     {
