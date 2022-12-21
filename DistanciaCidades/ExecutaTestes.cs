@@ -10,7 +10,6 @@ namespace Question1
     {
         static void Main(string[] args)
         {
-            int caminho;
             Distancia distancia = new Distancia();
             Console.WriteLine(distancia.distanciaCaminho());
         }
